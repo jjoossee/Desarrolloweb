@@ -1,0 +1,30 @@
+.red{
+    color: red;
+    font-size: 1.5em;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+.green{
+    color: green;
+    font-size: 1.5em;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+.yellow{
+    color: yellow;
+    font-size: 1.5em;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+div>input{
+    width: 25%;
+    border-radius: 3cm;
+    border-width: 3px;
+}
+div{
+    display: flex;
+    margin-top: 5cm;;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
