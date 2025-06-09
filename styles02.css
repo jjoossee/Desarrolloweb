@@ -23,7 +23,7 @@ div>input{
 }
 div{
     display: flex;
-    margin-top: 5cm;;
+    margin-top: 5cm;
     flex-direction: column;
     justify-content: center;
     align-items: center;
